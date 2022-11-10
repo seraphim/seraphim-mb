@@ -11,7 +11,7 @@
 				
 				"content_html": "<p>This is a test with an enclosed .jpeg image.  I wasn&rsquo;t aware of the fact that micro.blog only includes <a href=\"https://help.micro.blog/t/photo-pages/80\">JPEGs</a> for the photos page to help filter out screenshots which are usually PNGs.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This is a test with an enclosed .jpeg image.  I wasn't aware of the fact that micro.blog only includes [JPEGs](https://help.micro.blog/t/photo-pages/80) for the photos page to help filter out screenshots which are usually PNGs.\n\n<img src=\"uploads/2022/b0a1b78b16.jpg\" width=\"600\" height=\"388\" alt=\"\" />\n",
-				"date_published": "2022-02-22T14:24:54-04:00",
+				"date_published": "2022-02-22T13:24:54-05:00",
 				"url": "https://seraph.im/2022/02/22/this-is-a.html",
 				"tags": ["photos"]
 			}
